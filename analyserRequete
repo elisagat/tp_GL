@@ -1,0 +1,1 @@
+La méthode analyserRequete permet d'analyser les requêtes des utilisateurs exprimant des nouveaux symptômes ressentis. Le système analyse les données reçues et les compare avec la base des requêtes des autres utilisateurs.
