@@ -1,1 +1,1 @@
-Quentin Guerisse & Elisa Gatto
+La commande git branch permet de créer une nouvelle branche et la commande git checkout permet de basculer d'une branche à l'autre.
